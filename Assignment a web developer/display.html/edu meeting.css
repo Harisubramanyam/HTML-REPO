@@ -1,0 +1,91 @@
+h1{
+    color: rgb(255, 255, 255);
+    /* background-color: rgb(96, 133, 133); */
+    opacity: 0.9;
+    height: 100px;
+    text-align: justify;
+    margin-top: 05px;
+    margin-left: 10px;
+     }
+    body{
+        background-image : url("https://www.olivetree.com/blog/wp-content/uploads/2018/10/TwoMinutesADayNoText.jpg");
+    }
+.Nav{
+    
+    float: right;
+    margin-top: -120px;
+   word-spacing: 15px;
+}
+a{
+     color: rgb(255, 255, 255);
+    word-spacing: 8px
+    }
+*{
+    text-decoration: none;
+}
+h3{
+    color: aliceblue;
+    margin-left: 40px;
+    margin-top: 50px;
+   }
+   h2{
+    color: rgb(255, 255, 255);
+    margin-left: 40px;
+   }
+   p{
+    color: aliceblue;
+    margin-left: 40px;
+
+   }
+button{
+    border-radius: 10px;
+    padding: 15px;
+    background-color: brown;
+    color: rgb(2, 15, 26);
+    margin-left: 40px;
+    margin-top: 40px;
+}
+button:hover{
+    background-color: rgb(228, 242, 232);
+}
+.Pro{
+    display:flex;
+    padding: 40px;
+    margin-top: 80px;
+    
+   
+}
+.Edu{
+    background-color: rgb(125, 56, 56);
+    margin-left: 10px;
+    border-radius: 15px;
+    text-align: justify;
+
+}
+.Bet{
+    background-color: rgb(125, 56, 56);
+    margin-left: 10px;
+    border-radius: 15px;
+    text-align: justify;
+    
+}
+.Bes{
+    background-color: rgb(125, 56, 56);
+    margin-left: 10px;
+    border-radius: 15px;
+    border-radius: 15px;
+}
+h4{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+

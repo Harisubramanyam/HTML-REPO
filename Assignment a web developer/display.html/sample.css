@@ -1,0 +1,33 @@
+.b1{
+    color:rgb(226, 235, 226);
+    background-color: #1f1f3b;
+    height: 70px;
+    text-align: center;
+    padding: 30px;
+    
+    
+}
+
+.Fa{
+    background-color: rgb(35, 218, 231);
+    display: inline-flex;
+    height: 55vh;
+    width: 25%;
+}
+.Sa{
+    background-color: rgb(35, 218, 231);
+    display: inline-flex;
+    height: 55vh;
+    width: 45%;
+    text-align: 
+}
+.Ta{
+    background-color: rgb(35, 218, 231);
+    display: inline-flex;
+    height: 55vh;
+    width: 25%;
+}
+.flx{
+    display: flex;
+   text-align: center;
+}
